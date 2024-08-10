@@ -43,4 +43,19 @@ To set up this project locally, follow these steps:
    dotnet run
 
 5. **Please change Back-end API URL in the frond-end .env file**
+
+## Technology Overview
+
+### Front-end
+
+01. Dependency Injection(Services injection in components)
+02. Reactive Forms
+03. Lazy Loading
+
+### Back-end
+
+01. Dependency Injection
+02. Clean Architecture
+03. Global Exception Handling
+04. Unit Tests using Xunit
   
