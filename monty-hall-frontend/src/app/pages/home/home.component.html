@@ -1,24 +1,84 @@
-<!-- app.component.html -->
 <div class="container-fluid bg-overlay">
-    <div class="row justify-content-center">
-      <h1 class="text-center text-white mt-5">MONTY HALL SIMULATION</h1>
+  <div class="row justify-content-center">
+    <h1 class="text-center text-white mt-5">MONTY HALL SIMULATION</h1>
+  </div>
+
+  <div class="row justify-content-center mt-4">
+    <div class="col-4 text-center">
+      <img src="/assets/images/door1.png" class="img-fluid" alt="Door 1" />
     </div>
-    
-    <div class="row justify-content-center mt-4">
-      <div class="col-4 text-center">
-        <img src="/assets/images/door1.png" class="img-fluid" alt="Door 1" >
-      </div>
-      <div class="col-4 text-center">
-        <img src="/assets/images/door2.png" class="img-fluid" alt="Door 2">
-      </div>
-      <div class="col-4 text-center">
-        <img src="/assets/images/door1.png" class="img-fluid" alt="Door 3">
-      </div>
+    <div class="col-4 text-center">
+      <img src="/assets/images/door2.png" class="img-fluid" alt="Door 2" />
     </div>
-    
-    <div class="row justify-content-center mt-4">
-        <div class="col-auto">
-            <button class="btn btn-secondary" (click)="navigateToSimulation()">START</button>
-        </div>
+    <div class="col-4 text-center">
+      <img src="/assets/images/door1.png" class="img-fluid" alt="Door 3" />
     </div>
   </div>
+
+  <div class="row justify-content-center mt-4">
+    <div class="col-auto">
+      <!-- <button
+        class="btn btn-dark btn-lg px-5 py-3 shadow"
+        (click)="navigateToSimulation()"
+      >
+        START
+      </button> -->
+      <button
+        class="btn btn-dark btn-lg px-5 py-3 shadow"
+        data-bs-toggle="modal"
+        data-bs-target="#instructionModal"
+      >
+        START
+      </button>
+    </div>
+  </div>
+</div>
+
+<div
+  class="modal fade"
+  id="instructionModal"
+  tabindex="-1"
+  aria-labelledby="instructionModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content custom-modal">
+      <div class="modal-header">
+        <h5 class="modal-title" id="instructionModalLabel">
+          Instructions
+        </h5>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <p>Welcome to the Monty Hall Simulation! Here’s how it works:</p>
+        <ul>
+          <li>There are two seperate phases.</li>
+          <li>Enter same number of goings into both phases.</li>
+          <li>
+            After that please check the checkbox("Switch the door") in one phase but dont check in both.
+          </li>
+          <li>
+            Click on the "PROCEED" button on both panels to run the simulations.
+          </li>
+          <li>After the simulations are complete, compare the results from both panels. The pie charts will show the percentage of wins and losses. Typically, switching doors should result in a higher win percentage.</li>
+        </ul>
+        <p>Good luck!</p>
+      </div>
+      <div class="modal-footer justify-content-center">
+        <button
+          type="button"
+          class="btn btn-dark"
+          (click)="navigateToSimulation()"
+          data-bs-dismiss="modal"
+        >
+          Let's Go!
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

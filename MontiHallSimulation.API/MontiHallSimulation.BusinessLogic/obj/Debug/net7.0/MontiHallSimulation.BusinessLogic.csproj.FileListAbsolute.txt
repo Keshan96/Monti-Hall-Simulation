@@ -28,3 +28,4 @@ C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.BusinessLogic\obj\Debug\net7.0\refint\MontiHallSimulation.BusinessLogic.dll
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.BusinessLogic\obj\Debug\net7.0\MontiHallSimulation.BusinessLogic.pdb
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.BusinessLogic\obj\Debug\net7.0\ref\MontiHallSimulation.BusinessLogic.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.BusinessLogic\obj\Debug\net7.0\MontiHallSimulation.BusinessLogic.sourcelink.json

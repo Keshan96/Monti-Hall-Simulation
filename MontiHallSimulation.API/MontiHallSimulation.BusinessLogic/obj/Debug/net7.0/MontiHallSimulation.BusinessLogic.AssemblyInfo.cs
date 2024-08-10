@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MontiHallSimulation.BusinessLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f7e3a7ce22f1fb2a4538c89a5338ded3064a166")]
 [assembly: System.Reflection.AssemblyProductAttribute("MontiHallSimulation.BusinessLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MontiHallSimulation.BusinessLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
