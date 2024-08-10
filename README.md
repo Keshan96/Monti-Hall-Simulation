@@ -23,3 +23,24 @@ To set up this project locally, follow these steps:
 4. **Start the application:**
    ```bash
    ng serve -o
+
+### Back-end
+
+1. **Navigate to the .NET backend project directory:**
+   ```bash
+   cd MontiHallSimulation.API
+
+2. **Restore the project dependencies:**
+   ```bash
+   dotnet restore
+   
+3. **Build the project:**
+   ```bash
+   dotnet build
+
+4. **Run the application:**
+   ```bash
+   dotnet run
+
+5. **Please change Back-end API URL in the frond-end .env file**
+  
