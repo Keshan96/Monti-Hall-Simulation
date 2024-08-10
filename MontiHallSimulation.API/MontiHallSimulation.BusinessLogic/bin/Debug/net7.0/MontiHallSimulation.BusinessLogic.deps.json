@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MontiHallSimulation.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "MontiHallSimulation.Core": "1.0.0"
+        },
+        "runtime": {
+          "MontiHallSimulation.BusinessLogic.dll": {}
+        }
+      },
+      "MontiHallSimulation.Core/1.0.0": {
+        "runtime": {
+          "MontiHallSimulation.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MontiHallSimulation.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MontiHallSimulation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

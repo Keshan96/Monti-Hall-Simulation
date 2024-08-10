@@ -1,0 +1,22 @@
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.deps.json
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.pdb
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.AssemblyInfoInputs.cache
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.AssemblyInfo.cs
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\refint\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.pdb
+C:\Users\Keshan Overleap\source\repos\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\ref\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.deps.json
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\bin\Debug\net7.0\MontiHallSimulation.Core.pdb
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.AssemblyInfoInputs.cache
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.AssemblyInfo.cs
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\refint\MontiHallSimulation.Core.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\MontiHallSimulation.Core.pdb
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.Core\obj\Debug\net7.0\ref\MontiHallSimulation.Core.dll

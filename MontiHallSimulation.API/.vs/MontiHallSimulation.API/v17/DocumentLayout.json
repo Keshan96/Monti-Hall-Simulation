@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|solutionrelative:montihallsimulation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689D5B2-B4C9-4C22-A43D-A02AA17E7008}|MontiHallSimulation.Test\\MontiHallSimulation.Test.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.test\\montyhallsimulationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2689D5B2-B4C9-4C22-A43D-A02AA17E7008}|MontiHallSimulation.Test\\MontiHallSimulation.Test.csproj|solutionrelative:montihallsimulation.test\\montyhallsimulationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.businesslogic\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|solutionrelative:montihallsimulation.businesslogic\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.businesslogic\\interfaces\\isimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|solutionrelative:montihallsimulation.businesslogic\\interfaces\\isimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.api\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|solutionrelative:montihallsimulation.api\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.api\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|solutionrelative:montihallsimulation.api\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.api\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|solutionrelative:montihallsimulation.api\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.api\\montihallsimulation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51D6ACA1-9FF5-4D7F-9CAD-4780E3BAC71A}|MontiHallSimulation.API\\MontiHallSimulation.API.csproj|solutionrelative:montihallsimulation.api\\montihallsimulation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E7C338-0BC4-44EB-8392-019939D89E7E}|MontiHallSimulation.Core\\MontiHallSimulation.Core.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.core\\entities\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E7C338-0BC4-44EB-8392-019939D89E7E}|MontiHallSimulation.Core\\MontiHallSimulation.Core.csproj|solutionrelative:montihallsimulation.core\\entities\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|c:\\users\\keshan overleap\\source\\repos\\monti hall simulation\\montihallsimulation.api\\montihallsimulation.businesslogic\\montihallsimulation.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B56872EA-D00A-484E-8981-FB3D2C2AF165}|MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj|solutionrelative:montihallsimulation.businesslogic\\montihallsimulation.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "MontiHallSimulation.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwCwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:24:53.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Program.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Program.cs",
+              "RelativeToolTip": "MontiHallSimulation.API\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:11:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationController.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Controllers\\SimulationController.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.API\\Controllers\\SimulationController.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Controllers\\SimulationController.cs",
+              "RelativeToolTip": "MontiHallSimulation.API\\Controllers\\SimulationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:28:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\Interfaces\\ISimulationService.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.BusinessLogic\\Interfaces\\ISimulationService.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\Interfaces\\ISimulationService.cs",
+              "RelativeToolTip": "MontiHallSimulation.BusinessLogic\\Interfaces\\ISimulationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:22:13.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.BusinessLogic\\Services\\SimulationService.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\Services\\SimulationService.cs",
+              "RelativeToolTip": "MontiHallSimulation.BusinessLogic\\Services\\SimulationService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:25:03.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Dtos\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.API\\Dtos\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\Dtos\\ErrorResponse.cs",
+              "RelativeToolTip": "MontiHallSimulation.API\\Dtos\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:28:59.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MontyHallSimulationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.Test\\MontyHallSimulationServiceTests.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.Test\\MontyHallSimulationServiceTests.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.Test\\MontyHallSimulationServiceTests.cs",
+              "RelativeToolTip": "MontiHallSimulation.Test\\MontyHallSimulationServiceTests.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:51:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MontiHallSimulation.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\MontiHallSimulation.API.csproj",
+              "RelativeDocumentMoniker": "MontiHallSimulation.API\\MontiHallSimulation.API.csproj",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.API\\MontiHallSimulation.API.csproj",
+              "RelativeToolTip": "MontiHallSimulation.API\\MontiHallSimulation.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T14:23:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MontiHallSimulation.BusinessLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj",
+              "RelativeToolTip": "MontiHallSimulation.BusinessLogic\\MontiHallSimulation.BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T05:19:58.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.Core\\Entities\\Simulation.cs",
+              "RelativeDocumentMoniker": "MontiHallSimulation.Core\\Entities\\Simulation.cs",
+              "ToolTip": "C:\\Users\\Keshan Overleap\\source\\repos\\Monti Hall Simulation\\MontiHallSimulation.API\\MontiHallSimulation.Core\\Entities\\Simulation.cs",
+              "RelativeToolTip": "MontiHallSimulation.Core\\Entities\\Simulation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:38:19.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
