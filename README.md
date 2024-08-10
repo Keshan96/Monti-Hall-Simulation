@@ -12,3 +12,14 @@ To set up this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/monty-hall-simulation.git
 
+2. **Navigate to the front-end project directory:**
+   ```bash
+   cd monty-hall-frontend
+
+3. **Install the required dependencies:**
+   ```bash
+   npm install
+
+4. **Start the application:**
+   ```bash
+   ng serve -o
