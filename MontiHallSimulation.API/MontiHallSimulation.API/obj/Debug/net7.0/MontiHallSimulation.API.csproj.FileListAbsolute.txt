@@ -72,3 +72,4 @@ C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.API\obj\Debug\net7.0\MontiHallSimulation.API.pdb
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.API\obj\Debug\net7.0\MontiHallSimulation.API.genruntimeconfig.cache
 C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.API\obj\Debug\net7.0\ref\MontiHallSimulation.API.dll
+C:\Users\Keshan Overleap\source\repos\Monti Hall Simulation\MontiHallSimulation.API\MontiHallSimulation.API\obj\Debug\net7.0\MontiHallSimulation.API.sourcelink.json

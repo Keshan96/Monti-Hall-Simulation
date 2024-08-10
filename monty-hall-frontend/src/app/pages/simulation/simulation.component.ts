@@ -3,6 +3,7 @@ import { SimulationService } from '../../core/simulation.service';
 import { HttpClientModule } from '@angular/common/http';
 import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angular/forms';
 import { Chart, registerables } from 'chart.js';
+import { CommonModule } from '@angular/common';
 
 
 Chart.register(...registerables);
@@ -10,9 +11,9 @@ Chart.register(...registerables);
 @Component({
   selector: 'app-simulation',
   standalone: true,
-  imports: [ReactiveFormsModule],
+  imports: [ReactiveFormsModule,CommonModule],
   templateUrl: './simulation.component.html',
-  styleUrls: ['./simulation.component.css'] 
+  styleUrls: ['./simulation.component.css']
 })
 export class SimulationComponent implements OnInit{
   
