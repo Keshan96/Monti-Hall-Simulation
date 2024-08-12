@@ -42,8 +42,6 @@ To set up this project locally, follow these steps:
    ```bash
    dotnet run
 
-5. **Please change Back-end API URL in the frond-end .env file**
-
 ## Technology Overview
 
 ### Front-end
